@@ -1,12 +1,12 @@
 {
-  "name": "google-map-react",
-  "version": "2.0.4",
+  "name": "monkey-google-map",
+  "version": "1.0.0",
   "description": "Isomorphic component that allows rendering react components on a google map",
   "author": "istarkov https://github.com/istarkov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google-map-react/google-map-react.git"
+    "url": "git+https://github.com/ngager-group/google-map-react.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
